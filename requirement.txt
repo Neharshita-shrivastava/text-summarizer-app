@@ -1,0 +1,7 @@
+torch==2.8.0
+transformers
+fastapi
+uvicorn
+pydantic
+jinja2
+python-multipart
